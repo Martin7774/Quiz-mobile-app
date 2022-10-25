@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz2</string>
+
+    <string name="true_button">Prawda</string>
+    <string name="false_button">Fałsz</string>
+    <string name="next_button">Następne</string>
+
+
+    <string name="q1">Czy Rosja ma granicę z Polską?</string>
+    <string name="q2">Czy Niemcy są większe od Białorusi?</string>
+    <string name="q3">Czy prezydentem Polski jest Andrzej Duda?</string>
+    <string name="q4">Czy stolicą Polski jest Białystok?</string>
+    <string name="q5">Czy Warszawa leży nad morzem?</string>
+
+
+    <string name="correct_answer">Prawidłowa odpowiedz</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedz</string>
+    <string name="answer_main_activity">Pokaż odpowiedź</string>
+    <string name="hint_answer_btn">Pokaż odpowiedź</string>
+    <string name="hint_answer">Czy chcesz zobaczyć odpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była juz wyświetlana</string>
+</resources>
